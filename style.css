@@ -44,7 +44,7 @@ main {
         AESTHETICS
 =========================*/
 
-body {
+body, #select-user, #select-color {
     background-color: #9FAFA1;
 }
 
@@ -53,13 +53,9 @@ header, #div-intro, #show-content {
 }
 
 #div-intro, #show-content {
-    background-color: #3C4A3E;
     border-radius: 10px;
 }
 
-#select-user {
-    background-color: #9FAFA1;
-}
 
 /*======================
         TYPOGRAPHY
